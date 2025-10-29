@@ -27,6 +27,9 @@ I am currently pursuing a Master’s degree in Data Science at Shahid Beheshti U
   <a href="https://stackoverflow.com/users/14397431/arshakparsa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://huggingface.co/ArshakParsa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Huggingface&logo=huggingface&label=&color=FFD21E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
