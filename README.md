@@ -28,10 +28,10 @@ I am currently pursuing a Master’s degree in Data Science at Shahid Beheshti U
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://huggingface.co/ArshakParsa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Huggingface&logo=huggingface&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Huggingface&logo=huggingface&label=&color=FFD21E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="huggingface logo"  />
   </a>
-  <a href="https://www.datacamp.com/portfolio/akp9132?view=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=03EF62&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <a href="https://www.kaggle.com/arshakparsa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
   </a>
 </div>
 
